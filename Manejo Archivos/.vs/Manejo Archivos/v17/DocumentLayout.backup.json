@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eduardo\\source\\repos\\Manejo Archivos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7545C1F5-5847-43B4-B22D-470334BFCED1}|Manejo Archivos\\Manejo Archivos.vcxproj|C:\\Users\\Eduardo\\source\\repos\\Manejo Archivos\\Manejo Archivos\\Manejo Archivos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7545C1F5-5847-43B4-B22D-470334BFCED1}|Manejo Archivos\\Manejo Archivos.vcxproj|solutionrelative:Manejo Archivos\\Manejo Archivos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manejo Archivos.cpp",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\source\\repos\\Manejo Archivos\\Manejo Archivos\\Manejo Archivos.cpp",
+              "RelativeDocumentMoniker": "Manejo Archivos\\Manejo Archivos.cpp",
+              "ToolTip": "C:\\Users\\Eduardo\\source\\repos\\Manejo Archivos\\Manejo Archivos\\Manejo Archivos.cpp",
+              "RelativeToolTip": "Manejo Archivos\\Manejo Archivos.cpp",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAAIcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-31T18:02:59.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
